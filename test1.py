@@ -1,4 +1,4 @@
-from sdk import ELITE
+from SDK import ELITE
 import numpy as np
 import time
 
